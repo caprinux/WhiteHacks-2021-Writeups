@@ -17,7 +17,7 @@ Note: You DO NOT need any form of brute force or directory busting to complete t
 ---
 ### Challenge 
 
-Ah more money again? Piggy bank gave ma false sense of feeling rich. Maybe this challenge will really send a million dollar to my bank account owo
+Ah more money again? Piggy bank gave me false sense of feeling rich. Maybe this challenge will really send a million dollar to my bank account owo
 
 Anyways, going to the website provided and keying the provided details and verification hash, it said 
 
