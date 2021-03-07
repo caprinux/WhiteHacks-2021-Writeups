@@ -23,7 +23,7 @@ Time: 0900 - 1700 (8 hours)
 #### OSINT 
 - **[Birthday Surprise A](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/OSINT/Birthday%20Surprise)** _98 solves_
 - **[The Cake still Tick-Tocking](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/OSINT/The%20Cake%20still%20Tick-Tocking)** _90 solves_
-- **No place like Home** _69 solves_ (my teammate did this so no writeup from me :p)
+- **[No place like Home]** _69 solves_ (my teammate did this so no writeup from me :p)
 
 #### Web
 - **[Infant Web](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/Web/Infant%20Web)** _86 solves_
