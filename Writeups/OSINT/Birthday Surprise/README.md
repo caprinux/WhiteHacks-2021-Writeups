@@ -1,4 +1,9 @@
 # Birthday Surprise
+
+#### Team: Elmo
+#### Category: OSINT
+#### Flag: WH2021{18091997}
+
 ---
 
 ### Challenge Description
