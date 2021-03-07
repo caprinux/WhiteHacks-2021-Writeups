@@ -1,5 +1,5 @@
 # Bad Code Practices
-## Team: Elmo
+### Team: Elmo
 #### Category: CSA
 #### Flag: WH2021{f0r_A_fun_ch@113ng1ng_N_eggc1t!ng_car33r_j0!n_C5@}
 ---
