@@ -47,7 +47,7 @@ Once checked to be same, increase safety by adding slashes
 to characters that need to be escaped in decoded string
 Parse the string to obtain the details within the safe string
 ```
-Since there is a secret key of length 19, and seeing how it works, I can be pretty sure that this is HMAC that is broken my hash extension attack.
+Since there is a secret key of length 19, and seeing how it works, I can be pretty sure that this is HMAC that is broken by a hash extension attack.
 
 This calls for my handy tool, the [Hash_Extender](https://github.com/iagox86/hash_extender), my every so trusty right-hand man.
 
