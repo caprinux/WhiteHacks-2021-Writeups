@@ -7,6 +7,10 @@ nc chals.whitehacks.ctf.sg 20201
 
 This will require a bit more knowledge about programming than Piggy Bank. Give it a try and learn something new(?)
 
+
+[Revenge.zip](https://github.com/caprinux/WhiteHacks-2021-Writeups/files/6097197/Revenge.zip)
+
+
 ---
 ### Challenge
 
