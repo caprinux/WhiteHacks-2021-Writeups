@@ -1,4 +1,9 @@
 # Puddi Puddi
+
+#### Team: Elmo
+#### Category: Pwn
+#### Flag: WH2021{3880fba0faf0_g1g4_pudd1}
+
 ---
 
 ### Challenge Description
