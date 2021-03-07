@@ -1,4 +1,7 @@
 # Is it really?
+### Team: Elmo
+#### Category: Forensics
+#### Flag: WH2021{eicar.txt}
 ---
 
 ### Challenge Description
