@@ -1,4 +1,9 @@
 # Piggy Bank
+
+#### Team: Elmo
+#### Category: Pwn
+#### Flag: WH2021{N0w_the_p1ggy_is_wORS3_than_empty_:'(}
+
 ---
 
 ### **Challenge Description**
