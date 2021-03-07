@@ -42,8 +42,8 @@ Time: 0900 - 1700 (8 hours)
 - **[Bad Code Practices :(](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/CSA/Bad%20Code%20Practices)** _21 solves_
 
 #### Unsolved Challenges 
-- **[Hopscotch]()**(pwn) _5 solves_
-- **[Padoru Padoru]()**(pwn) _4 solves_
-- **[LENCrypt]()**(crypto) _9 solves_
-- **[BasedRSA]()**(crypto) _2 solves_
+- **[Hopscotch](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Unsolved/Pwn/Hopscotch)**(pwn) _5 solves_
+- **[Padoru Padoru](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Unsolved/Pwn/Padoru%20Padoru)**(pwn) _4 solves_
+- **[LENCrypt](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Unsolved/Crypto/LENCrypt)**(crypto) _9 solves_
+- **[BasedRSA](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Unsolved/Crypto/BasedRSA)**(crypto) _2 solves_
 
