@@ -1,4 +1,8 @@
 # Secure Banking
+# Sweet Tooth
+### Team: Elmo
+#### Category: Crypto
+#### Flag: WH2021{$m00000n3y_g0_Burrrrrrrrrrrrrrr}
 ---
 
 ### Challenge Description
