@@ -1,4 +1,7 @@
 # Sweet Tooth
+### Team: Elmo
+#### Category: CSA
+#### Flag: WH2021{chachabooboo}
 ---
 
 ### Challenge Description
