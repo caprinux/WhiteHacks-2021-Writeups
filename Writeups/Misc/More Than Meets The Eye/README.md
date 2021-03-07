@@ -10,9 +10,12 @@ Is there something here ``that's‌​‌​‌‌‌⁠‌​​‌​​​⁠
 With a string of text and no other files or hint given, I figured there must be something hidden. Is there more than meets the eye here?
 
 If you view the line of text in html, you will see a line of gibberish in HTML syntax. Feel free to try on the challenge description above, I've copied the line of gibberish over into this README.md file.
+
 _you can do that with right click > inspect element_
 
-This is what we call Zero Width Steganography or White Space Steganography. Steganography is basically the art of hiding a message in all sorts of mediums, through pictures, audios and even hide it in plaintext as zero width characters.
+This is what we call Zero Width Steganography or White Space Steganography. 
+
+Steganography is basically the art of hiding a message in all sorts of mediums, through pictures, audios and even hide it in plaintext as zero width characters.
 
 Zero width characters are essentially a bunch of non-printable ASCII characters, and in this case it is appended to the word ``that's``.
 
