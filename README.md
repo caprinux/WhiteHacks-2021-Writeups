@@ -21,25 +21,25 @@ Time: 0900 - 1700 (8 hours)
 - **[Puddi Puddi](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/pwn/Puddi%20Puddi)** _12 solves_
 
 #### OSINT 
-- **Birthday Surprise A** _98 solves_
-- **The Cake still Tick-Tocking** _90 solves_
-- **No place like Home** _69 solves_ (my teammate did this so i lz writeup lol)
+- **[Birthday Surprise A](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/OSINT/Birthday%20Surprise)** _98 solves_
+- **[The Cake still Tick-Tocking](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/OSINT/The%20Cake%20still%20Tick-Tocking)** _90 solves_
+- **No place like Home** _69 solves_ (my teammate did this so no writeup from me :p)
 
 #### Web
-- **Infant Web** _86 solves_
+- **[Infant Web](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/Web/Infant%20Web)** _86 solves_
 
 #### Miscellaneous 
-- **More than meets the eye** _31 solves_
+- **[More than meets the eye](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/Misc/More%20Than%20Meets%20The%20Eye)** _31 solves_
 
 #### Forensics
-- **Is it really?** _43 solves_
+- **[Is it really?](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/Forensics/Is%20it%20really%3F)** _43 solves_
 
 #### Crypto
-- **Secure Banking** _9 solves_
+- **[Secure Banking](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/Crypto/Secure%20Banking)** _9 solves_
 
 #### CSA Challenges
-- **Sweet Tooth** _44 solves_
-- **Bad Code Practices :(** _21 solves_
+- **[Sweet Tooth](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/CSA/Sweet%20Tooth)** _44 solves_
+- **[Bad Code Practices :(](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/CSA/Bad%20Code%20Practices)** _21 solves_
 
 #### Unsolved Challenges 
 lazy to fill this up for now maybe later
