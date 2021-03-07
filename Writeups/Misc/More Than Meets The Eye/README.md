@@ -16,7 +16,11 @@ This is what we call Zero Width Steganography or White Space Steganography. Steg
 
 Zero width characters are essentially a bunch of non-printable ASCII characters, and in this case it is appended to the word ``that's``.
 
-In a CTF where time is tight, the most straightforward way to solve this would be to copy the whole line of text ``Is there something here that's‌​‌​‌‌‌⁠‌​​‌​​​⁠‌‌​​‌​⁠‌‌​​​​⁠‌‌​​‌​⁠‌‌​​​​⁠‌‌‌‌​‌‌⁠‌‌‌‌​‌​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌‌​​​​⁠‌​‌‌‌‌‌⁠‌‌‌​‌‌‌⁠‌‌​​​‌⁠‌‌​​‌​​⁠‌‌‌​‌​​⁠‌‌​‌​​​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​﻿‌​‌​‌‌‌⁠‌​​‌​​​⁠‌‌​​‌​⁠‌‌​​​​⁠‌‌​​‌​⁠‌‌​​​‌⁠‌‌‌‌​‌‌⁠‌‌‌‌​‌​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌‌​​​​⁠‌​‌‌‌‌‌⁠‌‌‌​‌‌‌⁠‌‌​​​‌⁠‌‌​​‌​​⁠‌‌‌​‌​​⁠‌‌​‌​​​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​‌​​​⁠‌​​​​​​⁠‌‌‌​​‌​⁠‌​​​​​​⁠‌‌​​​‌‌⁠‌‌‌​‌​​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​​​​⁠‌‌‌​‌​‌⁠‌​​‌‌‌​⁠‌‌‌​‌​​⁠‌​‌​​‌‌⁠‌​‌‌‌‌‌⁠‌‌‌​‌​​⁠‌‌​​​​⁠‌‌​​​​⁠‌‌‌‌‌​‌﻿‌​​​⁠‌​​​​​​⁠‌‌‌​​‌​⁠‌​​​​​​⁠‌‌​​​‌‌⁠‌‌‌​‌​​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​​​​⁠‌‌‌​‌​‌⁠‌​​‌‌‌​⁠‌‌‌​‌​​⁠‌​‌​​‌‌⁠‌​‌‌‌‌‌⁠‌‌‌​‌​​⁠‌‌​​​​⁠‌‌​​​​⁠‌‌‌‌‌​‌ more than meets the eye?`` and paste it into a zero width steganography decoder.
+In a CTF where time is tight, the most straightforward way to solve this would be to copy the whole line of text 
+
+``Is there something here that's‌​‌​‌‌‌⁠‌​​‌​​​⁠‌‌​​‌​⁠‌‌​​​​⁠‌‌​​‌​⁠‌‌​​​​⁠‌‌‌‌​‌‌⁠‌‌‌‌​‌​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌‌​​​​⁠‌​‌‌‌‌‌⁠‌‌‌​‌‌‌⁠‌‌​​​‌⁠‌‌​​‌​​⁠‌‌‌​‌​​⁠‌‌​‌​​​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​﻿‌​‌​‌‌‌⁠‌​​‌​​​⁠‌‌​​‌​⁠‌‌​​​​⁠‌‌​​‌​⁠‌‌​​​‌⁠‌‌‌‌​‌‌⁠‌‌‌‌​‌​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌‌​​​​⁠‌​‌‌‌‌‌⁠‌‌‌​‌‌‌⁠‌‌​​​‌⁠‌‌​​‌​​⁠‌‌‌​‌​​⁠‌‌​‌​​​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​‌​​​⁠‌​​​​​​⁠‌‌‌​​‌​⁠‌​​​​​​⁠‌‌​​​‌‌⁠‌‌‌​‌​​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​​​​⁠‌‌‌​‌​‌⁠‌​​‌‌‌​⁠‌‌‌​‌​​⁠‌​‌​​‌‌⁠‌​‌‌‌‌‌⁠‌‌‌​‌​​⁠‌‌​​​​⁠‌‌​​​​⁠‌‌‌‌‌​‌﻿‌​​​⁠‌​​​​​​⁠‌‌‌​​‌​⁠‌​​​​​​⁠‌‌​​​‌‌⁠‌‌‌​‌​​⁠‌‌​​‌‌⁠‌‌‌​​‌​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​​​​⁠‌‌‌​‌​‌⁠‌​​‌‌‌​⁠‌‌‌​‌​​⁠‌​‌​​‌‌⁠‌​‌‌‌‌‌⁠‌‌‌​‌​​⁠‌‌​​​​⁠‌‌​​​​⁠‌‌‌‌‌​‌ more than meets the eye?`` 
+
+and paste it into a zero width steganography decoder.
 
 I used https://neatnik.net/steganographr and it printed the flag for me. Sick!!
 
