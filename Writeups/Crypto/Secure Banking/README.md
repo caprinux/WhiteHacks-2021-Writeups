@@ -83,7 +83,7 @@ New signature: 3ac04e9e4a435072edf4961702a6eddb9cf52a3387019006119d05af98a17ebc
 New string: 66726f6d3d506574657226616d6f756e743d3230800000000000000000000000000000000000000000000001382666726f6d3d41646d696e26616d6f756e743d31303030303030
 ```
 
-The string and signature will be printed in hex by default. Hence when we return this to the bank system, we want to convert the new string from hex to bytes and bytes to ascii.
+The string and signature will be printed in hex by default. Hence when we return this to the bank system, we want to convert the new string from hex to bytes and bytes to base 64 encoded string.
 
 This can be easily done with [CyberChef](https://gchq.github.io/CyberChef/)
 
