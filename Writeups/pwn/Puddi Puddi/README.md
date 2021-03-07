@@ -7,6 +7,9 @@ Why have a MEGA 🍮 when you can have a GIGA 🍮?
 
 Interact with the service using nc chals.whitehacks.ctf.sg 20301 to get started!
 
+[puddi.zip](https://github.com/caprinux/WhiteHacks-2021-Writeups/files/6097205/puddi.zip)
+
+
 ---
 ### Challenge 
 
