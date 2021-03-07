@@ -1,4 +1,9 @@
 # Piggy Bank Revenge
+
+#### Team: Elmo
+#### Category: Pwn
+#### Flag: WH2021{(Don't)Try_th1s_0n_youR_B4nk!}
+
 ---
 ### Challenge Description
 Seems there was an issue with the previous implementation. I've introduced a HOTFIX that should prevent any further vulnerabilities. I've achieved an unhackable piggy bank now for sure.
