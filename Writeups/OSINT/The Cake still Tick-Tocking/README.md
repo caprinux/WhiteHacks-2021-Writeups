@@ -1,4 +1,9 @@
 # The Cake still Tick-Tocking
+
+#### Team: Elmo
+#### Category: OSINT
+#### Flag: WH2021{Ch0c0_L4V4_1s_b3$t}
+
 ---
 
 ### Challenge Description
