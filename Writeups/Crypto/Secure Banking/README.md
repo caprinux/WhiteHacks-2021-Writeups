@@ -11,6 +11,7 @@ Your friend Peter has built a new online transaction and banking service called 
 
 You are given the following details:
 Details: ZnJvbT1QZXRlciZhbW91bnQ9MjA=
+
 Verification Hash: 24a2efde8a32e7046aaeb11eb32a37ecf49937ef84c7a6b4bd943556fd2369cd
 
 However, as a White Hacker, you are obviously sceptical of such a [website](http://chals.whitehacks.ctf.sg:9111/index.php).
