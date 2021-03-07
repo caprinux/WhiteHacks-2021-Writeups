@@ -16,9 +16,9 @@ Time: 0900 - 1700 (8 hours)
 
 
 #### Pwn
-- **Piggy_Bank** _64 solves_
-- **Piggy_Bank_Revenge** _51 solves_
-- **Puddi Puddi** _12 solves_
+- **[Piggy_Bank](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/pwn/Piggy%20Bank)** _64 solves_ 
+- **[Piggy_Bank_Revenge](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/pwn/Piggy%20Bank%20Revenge)** _51 solves_
+- **[Puddi Puddi](https://github.com/caprinux/WhiteHacks-2021-Writeups/tree/main/Writeups/pwn/Puddi%20Puddi)** _12 solves_
 
 #### OSINT 
 - **Birthday Surprise A** _98 solves_
