@@ -8,32 +8,39 @@
 
 ---
 
+CTF Platform URL: https://play.whitehacks.ctf.sg/
+
+Time: 0900 - 1700 (8 hours)
+
+---
+
 
 #### Pwn
 - **Piggy_Bank** _64 solves_
 - **Piggy_Bank_Revenge** _51 solves_
 - **Puddi Puddi** _12 solves_
 
-### OSINT 
+#### OSINT 
 - **Birthday Surprise A** _98 solves_
 - **The Cake still Tick-Tocking** _90 solves_
 - **No place like Home** _69 solves_ (my teammate did this so i lz writeup lol)
 
-### Web
+#### Web
 - **Infant Web** _86 solves_
 
-### Miscellaneous 
+#### Miscellaneous 
 - **More than meets the eye** _31 solves_
 
-### Forensics
+#### Forensics
 - **Is it really?** _43 solves_
 
-### Crypto
+#### Crypto
 - **Secure Banking** _9 solves_
 
-### CSA Challenges
+#### CSA Challenges
 - **Sweet Tooth** _44 solves_
 - **Bad Code Practices :(** _21 solves_
 
-
+#### Unsolved Challenges 
+lazy to fill this up for now maybe later
 
