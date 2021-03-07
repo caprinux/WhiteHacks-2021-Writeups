@@ -1,4 +1,9 @@
 # More than meets the Eye
+
+#### Team: Elmo
+#### Category: Misc.
+#### Flag: WH2021{z3r0_w1dth_ch@r@ct3r_c0uNtS_t00}
+
 ---
 
 ### Challenge Description
