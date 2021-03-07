@@ -10,6 +10,7 @@
 Your friend Peter has built a new online transaction and banking service called AAA Banking. He claims it is extremely secure, using SHA256 hashing to create and verify HMACs. To get you onto the platform, he has sent you $20 for free! Try it out now! Check out the platform!
 
 You are given the following details:
+
 Details: ZnJvbT1QZXRlciZhbW91bnQ9MjA=
 
 Verification Hash: 24a2efde8a32e7046aaeb11eb32a37ecf49937ef84c7a6b4bd943556fd2369cd
