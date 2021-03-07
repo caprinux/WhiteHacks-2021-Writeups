@@ -3,6 +3,7 @@
 
 ### Challenge Description
 A malicious file was downloaded and picked up by our antivirus...
+
 [signup.pdf](https://github.com/caprinux/WhiteHacks-2021-Writeups/files/6097179/signup.pdf)
 
 ---
