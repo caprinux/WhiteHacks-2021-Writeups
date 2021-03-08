@@ -1,9 +1,12 @@
 # WhiteHacks-2021-Writeups
 
-### A collection of the CTF challenges I solved in Whitehacks as Team Elmo :)
-#### A grand total of 99 teams participated and unfortunately only ended at #20. 
-#### Quite salty that we were too lazy to take the free CSIT village flags which could've boosted us to #16, welp.
-#### There goes my first official CTF, Will be back next year hehe ;)
+A collection of the CTF challenges I solved in Whitehacks as Team Elmo :)
+
+A grand total of 99 teams participated and unfortunately only ended at #20. 
+
+Quite salty that we were too lazy to take the free CSIT village flags which could've boosted us to #16, welp.
+
+There goes my first official CTF, Will be back next year hehe ;)
 
 
 ---
